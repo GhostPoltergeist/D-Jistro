@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://example.com/path/to/your/image.png](https://github.com/GhostPoltergeist/D-Jistro/blob/main/d-jistro.png" alt="D-Jistro Logo" width="300" />
+  <img src="https://github.com/GhostPoltergeist/D-Jistro/blob/main/d-jistro.png" alt="D-Jistro Logo" width="300" />
 </p>
 
 # D-Jistro - Advanced Hand Tracking Tool
