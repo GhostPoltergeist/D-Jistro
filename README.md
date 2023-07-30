@@ -1,3 +1,5 @@
+<div style="background-color: white; padding: 20px;">
+
 <p align="center">
   <img src="https://github.com/GhostPoltergeist/D-Jistro/blob/main/jistro.jpg" alt="D-Jistro Logo" width="300" />
 </p>
@@ -131,3 +133,5 @@ Please note that as this program is still in beta, there might be bugs and limit
 For any inquiries or collaboration opportunities, you can reach out to Harold Edsel Cabaluna at EdselCabaluna21@gmail.com.
 
 Thank you for your interest in D-Jistro - an advanced hand tracking tool!
+
+</div>
