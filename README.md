@@ -1,14 +1,12 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/GhostPoltergeist/D-Jistro/blob/main/d-jistro.png" alt="D-Jistro Logo" width="300" style="margin-right: 20px;" />
+ <p align="center">
+  <img src="https://github.com/GhostPoltergeist/D-Jistro/blob/main/jistro.png" width="300" />
+</p>
 
-  <div>
-    <h1 style="margin-bottom: 20px;">D-Jistro - Advanced Hand Tracking Tool</h1>
-  </div>
-</div>
+# D-Jistro - Advanced Hand Tracking Tool
+
+D-Jistro is an advanced hand tracking tool created with the help of Google Mediapipe, OpenCV, and pyttsx3. This program incorporates features such as advanced hand tracking and face tracking. The primary goal of D-Jistro is to detect specific landmarks and trigger text-to-speech notifications based on the position of the hand landmark number 8 relative to predefined coordinates in four different camps: Camp 1, Camp 2, Camp 3, and Camp 4.>
 
 ## How it Works
-
-D-Jistro is an advanced hand tracking tool created with the help of Google Mediapipe, OpenCV, and pyttsx3. This program incorporates features such as advanced hand tracking and face tracking. The primary goal of D-Jistro is to detect specific landmarks and trigger text-to-speech notifications based on the position of the hand landmark number 8 relative to predefined coordinates in four different camps: Camp 1, Camp 2, Camp 3, and Camp 4.
 
 D-Jistro is designed to detect and track hand and face landmarks using Google Mediapipe and OpenCV libraries. It utilizes the `pyttsx3` library to convert text into speech. Here's a high-level overview of how the program works:
 
