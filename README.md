@@ -69,12 +69,32 @@ D-Jistro is designed to detect and track hand and face landmarks using Google Me
 
 4. **Text-to-Speech Notification**: Upon detecting a landmark 8 intersection with a camp, D-Jistro utilizes `pyttsx3` to convert predefined text into speech. This spoken notification indicates that a detection has occurred in the corresponding camp.
 
-## Usage
+# D-Jistro - Advanced Hand Tracking Tool
 
-To run D-Jistro, you'll need to follow these steps:
+D-Jistro is an advanced hand tracking tool created with the help of Google Mediapipe, OpenCV, and pyttsx3. This program incorporates features such as advanced hand tracking and face tracking. The primary goal of D-Jistro is to detect specific landmarks and trigger text-to-speech notifications based on the position of the hand landmark number 8 relative to predefined coordinates in four different camps: Camp 1, Camp 2, Camp 3, and Camp 4.
 
-1. Install the required packages using `pip`:
+## How it Works
 
+D-Jistro is designed to detect and track hand and face landmarks using Google Mediapipe and OpenCV libraries. It utilizes the `pyttsx3` library to convert text into speech. Here's a high-level overview of how the program works:
+
+1. **Hand and Face Tracking**: D-Jistro leverages Google Mediapipe and OpenCV to perform real-time hand and face tracking. The program captures the video feed from the camera and processes it to identify the positions of hands and faces in the frame.
+
+2. **Landmark Detection**: The program detects and assigns landmark numbers to key points on the detected hand, such as fingertips, palm, and especially landmark number 8, which is crucial for the functionality of the system.
+
+3. **Camp Coordination**: D-Jistro defines four camps in the video frame, each with its own specific coordinates. When landmark number 8 intersects with the coordinates of a particular camp, the program interprets it as a detection within that camp.
+
+4. **Text-to-Speech Notification**: Upon detecting a landmark 8 intersection with a camp, D-Jistro utilizes `pyttsx3` to convert predefined text into speech. This spoken notification indicates that a detection has occurred in the corresponding camp.
+
+## Usage 🚀
+
+### Running D-Jistro Text Editor 📝
+
+To use D-Jistro Text Editor, follow these steps:
+
+1. **Install the required packages** using `pip`:
+
+   ```bash
+   pip install pyttsx3 mediapipe opencv-python
 
 2. Clone this repository to your local machine or download the ZIP archive.
 
