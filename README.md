@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GhostPoltergeist/D-Jistro/blob/main/d-jistro-1-removebg-preview.png" alt="D-Jistro Logo" width="300" />
+  <img src="https://github.com/GhostPoltergeist/D-Jistro/blob/main/jistro.jpg" alt="D-Jistro Logo" width="300" />
 </p>
 
 # D-Jistro - Advanced Hand Tracking Tool
